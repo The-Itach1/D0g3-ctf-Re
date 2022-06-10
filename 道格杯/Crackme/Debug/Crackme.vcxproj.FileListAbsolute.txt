@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\simple\Crackme\Debug\Crackme.exe
+C:\Users\hp\Desktop\simple\Crackme\Debug\Crackme.pdb
+C:\Users\hp\Desktop\道格杯\Crackme\Debug\Crackme.exe
+C:\Users\hp\Desktop\道格杯\Crackme\Debug\Crackme.pdb

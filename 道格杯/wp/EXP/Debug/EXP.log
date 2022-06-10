@@ -1,0 +1,174 @@
+﻿  源.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(380,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(380,19): error C2146: 语法错误: 缺少“;”(在标识符“HCRYPTPROV”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(899,26): error C3646: “dwVersion”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(899,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(901,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(901,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(901,19): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(902,18): error C3646: “cbOID”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(902,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(908,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(908,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(908,27): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(909,26): error C3646: “cbInnerString”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(909,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(910,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(910,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(910,27): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(911,26): error C3646: “cbOuterString”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(911,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(916,18): error C3646: “dwUse”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(916,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(918,18): error C3646: “cBits”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(918,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(919,20): error C3646: “dwFlags”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(919,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(920,23): error C3646: “dwReserved”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(920,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(932,23): error C3646: “dwBitLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(932,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(933,24): error C3646: “dwNameLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(933,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(934,21): error C3646: “szName”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(934,21): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(934,25): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(934,25): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(940,27): error C3646: “dwDefaultLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(940,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(941,23): error C3646: “dwMinLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(941,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(942,23): error C3646: “dwMaxLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(942,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(943,26): error C3646: “dwProtocols”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(943,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(944,24): error C3646: “dwNameLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(944,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(945,21): error C3646: “szName”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(945,21): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(945,25): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(945,25): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(946,28): error C3646: “dwLongNameLen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(946,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(947,25): error C3646: “szLongName”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(947,25): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(947,29): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(947,29): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(952,22): error C3646: “bType”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(952,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(953,25): error C3646: “bVersion”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(953,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(954,25): error C3646: “reserved”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(954,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(959,22): error C3646: “magic”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(959,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(960,23): error C3646: “bitlen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(960,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(961,23): error C3646: “pubexp”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(961,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(966,22): error C3646: “magic”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(966,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(967,23): error C3646: “bitlen”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(967,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(971,24): error C3646: “counter”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(971,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(972,21): error C3646: “seed”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(972,21): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(972,25): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(972,25): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(976,22): error C3646: “magic”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(976,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(977,24): error C3646: “bitlenP”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(977,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(978,24): error C3646: “bitlenQ”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(978,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(979,24): error C3646: “bitlenJ”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(979,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(984,22): error C3646: “magic”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(984,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(985,24): error C3646: “bitlenP”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(985,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(986,24): error C3646: “bitlenQ”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(986,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(987,24): error C3646: “bitlenJ”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(987,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(988,24): error C3646: “bitlenX”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(988,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(993,26): error C3646: “dwKeySpec”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(993,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(994,21): error C3646: “Type”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(994,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(995,24): error C3646: “Subtype”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(995,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1050,43): error C3646: “cbData”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1050,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1051,41): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1051,41): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1051,48): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1070,34): error C3646: “dwVersion”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1070,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1072,39): error C3646: “pszContentEncObjId”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1072,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1085,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1085,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1087,30): error C2065: “phProv”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1088,17): error C2065: “LPCSTR”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1088,27): error C2146: 语法错误: 缺少“)”(在标识符“szContainer”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1095,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1095,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1094,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1097,30): error C2065: “phProv”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1098,17): error C2065: “LPCWSTR”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1098,28): error C2146: 语法错误: 缺少“)”(在标识符“szContainer”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1117,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1117,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1116,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1119,25): error C2146: 语法错误: 缺少“)”(在标识符“hProv”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1131,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1131,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1130,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1133,25): error C2146: 语法错误: 缺少“)”(在标识符“hProv”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1141,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1141,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1140,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1143,25): error C2146: 语法错误: 缺少“)”(在标识符“hProv”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1152,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1152,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1151,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1154,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1159,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1159,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1158,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1162,25): error C2061: 语法错误: 标识符“DWORD”
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1165,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1169,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1169,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1168,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1172,61): error C2061: 语法错误: 标识符“DWORD”
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1176,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1180,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1180,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1179,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1183,25): error C2061: 语法错误: 标识符“DWORD”
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1186,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1190,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1190,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1189,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1193,57): error C2061: 语法错误: 标识符“DWORD”
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1197,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1201,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1201,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1200,1): error C2086: “int BOOL”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1084): message : 参见“BOOL”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1203,25): error C2146: 语法错误: 缺少“)”(在标识符“hProv”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1211,1): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\Wincrypt.h(1211,1): fatal error C1003: 错误计数超过 100；正在停止编译

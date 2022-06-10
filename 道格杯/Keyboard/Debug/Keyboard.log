@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\hp\Desktop\道格杯\Keyboard\源.cpp(57,7): warning C4101: “check”: 未引用的局部变量
+C:\Users\hp\Desktop\道格杯\Keyboard\源.cpp(146,7): warning C4101: “hWnd”: 未引用的局部变量
+  Keyboard.vcxproj -> C:\Users\hp\Desktop\道格杯\Keyboard\Debug\Keyboard.exe

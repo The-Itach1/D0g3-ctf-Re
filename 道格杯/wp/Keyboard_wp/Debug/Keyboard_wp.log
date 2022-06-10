@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\hp\Desktop\道格杯\wp\Keyboard_wp\源.cpp(114,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\hp\Desktop\道格杯\wp\Keyboard_wp\源.cpp(114,6): warning C4101: “i”: 未引用的局部变量
+  Keyboard_wp.vcxproj -> C:\Users\hp\Desktop\道格杯\wp\Keyboard_wp\Debug\Keyboard_wp.exe
